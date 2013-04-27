@@ -1,8 +1,8 @@
 [
 	{
-		name: "given.phar",
-		sha1: "3907a256d32e2accd899c59e745ee099ea2a227e",
-		url: "https://raw.github.com/mneuhaus/Give-Repository/master/give-3907a25.phar",
-		version: "0.1.0"
+		"name": "given.phar",
+		"sha1": "3907a256d32e2accd899c59e745ee099ea2a227e",
+		"url": "https://raw.github.com/mneuhaus/Give-Repository/master/give-3907a25.phar",
+		"version": "0.1.0"
 	}
 ]
