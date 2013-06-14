@@ -1,3 +1,68 @@
 [
-	
+	{
+		"name": "give.phar",
+		"sha1": "e914ea929168e7ea6abb27e34c7ea9f03475e11b",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.0.1.phar",
+		"version": "0.0.1"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "cf250464ac129b496fe692bf189a6982e97a1015",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.1.0.phar",
+		"version": "0.1.0"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "771426400a242b4d606f4fa16a9fccbf79f7af0a",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.1.1.phar",
+		"version": "0.1.1"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "8ca4baa9ee6e149b8397e6e9ef817a5454b2cbe5",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.1.2.phar",
+		"version": "0.1.2"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "40340e418d7a8a9b9e9f1981e4d0bd12dcb1716b",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.2.0.phar",
+		"version": "0.2.0"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "907fca3a89895104007768dd905aa8a684380ed8",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.2.1.phar",
+		"version": "0.2.1"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "6c264870ba62858525add99dd35becadee616741",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.2.2.phar",
+		"version": "0.2.2"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "24ba08dc894c6021efb56b91c25e56b04c407f2c",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.2.3.phar",
+		"version": "0.2.3"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "dc05049058e0a6d887e7d97ef9e3a966e94e3484",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.2.4.phar",
+		"version": "0.2.4"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "8f1659c31fb1d421bd66a951c7a44bfac010cc4e",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.2.5.phar",
+		"version": "0.2.5"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "be5dc4b97fee5139d75d329d2dfb3f9e8ed7eed9",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.2.6.phar",
+		"version": "0.2.6"
+	}
 ]
