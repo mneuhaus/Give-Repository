@@ -76,5 +76,11 @@
 		"sha1": "6edb709efa2f1bafce6732ec30f61d353cc51ac0",
 		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.2.8.phar",
 		"version": "0.2.8"
+	},
+	{
+		"name": "give.phar",
+		"sha1": "77025986d0abb2debc06a6cc24ab2a99319ea5c2",
+		"url": "https:\/\/raw.github.com\/mneuhaus\/Give-Repository\/master\/give-0.2.9.phar",
+		"version": "0.2.9"
 	}
 ]
